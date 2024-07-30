@@ -3,3 +3,4 @@
 
 ## Futuras Atualizações
 - Acrescentar uma função que retorne para o menu toda vez que a resposta da operação for mostrada, para que o usuario não precise ficar colocando o comando no terminal a cada vez que termina de usar a calculadora.
+Fabrizio é doido
